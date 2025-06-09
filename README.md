@@ -49,7 +49,7 @@ Because this library offers high stability, full features, and an actively impro
 
 ---
 
-## Ketauan Jual?
+## Ketahuan Jual?
 
 - Bully no basa basi, miskin amat jual source code public
 ---
